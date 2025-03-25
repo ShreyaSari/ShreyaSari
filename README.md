@@ -1,5 +1,3 @@
-# Hi, all I am Shreya Sari
-
 <h1 align="center">Hi 👋, I'm Shreya Sari</h1>
 <h3 align="center">AI & ML Enthusiast | Building Intelligent Solutions 🚀 | Pushing Boundaries with AI</h3>
 
