@@ -11,7 +11,6 @@ Welcome to my GitHub! I'm a passionate and curious final year Computer Science s
 - 🧠 Interested in neural networks, reinforcement learning, and applied machine learning
 - 💬 Always excited to discuss tech, research, and innovation
 - 📫 How to reach me: [shreyasari24@gmail.com] | [LinkedIn](www.linkedin.com/in/shreyasari)
-
 ---
 
 ## 🛠️ Skills
