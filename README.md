@@ -10,7 +10,7 @@ Welcome to my GitHub! I'm a passionate and curious final year Computer Science s
 - 🤖 AI Intern with experience in computer vision and deep learning projects
 - 🧠 Interested in neural networks, reinforcement learning, and applied machine learning
 - 💬 Always excited to discuss tech, research, and innovation
-- 📫 How to reach me: [shreyasari24@gmail.com](mailto:shreyasari24@gmail.com) | [LinkedIn](https://www.linkedin.com/in/shreyasari)
+- 📫 How to reach me: [shreyasari24@gmail.com](mailto:shreyasari24@gmail.com) | [LinkedIn](https://www.linkedin.com/in/shreyasari) | [Website](https://shreyasari.my.canva.site/)
 ---
 
 ## 🛠️ Skills
